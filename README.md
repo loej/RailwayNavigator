@@ -39,6 +39,6 @@ credentials as necessary.
 Since this project was done in a group for CS336 it is important to keep 
 the information below in mind.
 1. Don't cheat. It's not worth it and you learn nothing.
-2. You're cheating yourself out of learning what Software Methodology is.
+2. You're cheating yourself out of learning what Databases is.
 3. Please follow Rutgers' Academic Integrity policy
 > Policy: https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy
